@@ -31,6 +31,8 @@ Welcome to **DentalX** – Revolutionizing dental care with the power of advance
 
 Join the growing number of dental professionals who trust DentalX for reliable, efficient, and accurate cavity detection. Experience the future of dental diagnostics today!
 
+![Screenshot from 2024-04-27 20-13-06](https://github.com/user-attachments/assets/db219acc-3d3a-441f-a998-935a7662753e)
+
 ---
 ![Screenshot from 2024-07-26 02-54-48](https://github.com/user-attachments/assets/6f9bba15-05dc-432b-ae22-71dd2f245d5d)
 ---
